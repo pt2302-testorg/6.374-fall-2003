@@ -1,0 +1,54 @@
+{
+  "term": "Fall",
+  "year": "2003",
+  "level": [
+    "Graduate"
+  ],
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Computer Design and Engineering"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Digital Systems"
+    ],
+    [
+      "Engineering",
+      "Electrical Engineering",
+      "Electronics"
+    ]
+  ],
+  "legacy_uid": "13e51306-4868-8b25-a01f-1b46c96d7131",
+  "instructors": {
+    "content": [
+      "0c707f19-ab85-c294-ef84-8df096d812be"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "886ef463-29cb-8a97-7ae8-18c4018dd2e6",
+    "website": "6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003"
+  },
+  "course_title": "Analysis and Design of Digital Integrated Circuits",
+  "course_description": "6.374 examines the device and circuit level optimization of digital building blocks. Topics covered include: MOS device models including Deep Sub-Micron effects; circuit design styles for logic, arithmetic and sequential blocks; estimation and minimization of energy consumption; interconnect models and parasitics; device sizing and logical effort; timing issues (clock skew and jitter) and active clock distribution techniques; memory architectures, circuits (sense amplifiers) and devices; testing of integrated circuits. The course employs extensive use of circuit layout and SPICE in design projects and software labs.\n",
+  "department_numbers": [
+    "6"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "6.374",
+  "course_image_thumbnail": {
+    "content": "3538d68c-613b-85d8-c530-baff6b044120",
+    "website": "6-374-analysis-and-design-of-digital-integrated-circuits-fall-2003"
+  },
+  "learning_resource_types": [
+    "Problem Sets",
+    "Exams with Solutions",
+    "Projects"
+  ],
+  "site_uid": "62d5013e-fd94-4ad4-851c-e40a6128f650",
+  "site_short_id": "6.374-fall-2003",
+  "title": "Course Metadata"
+}
